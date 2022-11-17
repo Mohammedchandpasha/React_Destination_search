@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.search-bar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.list-container {
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.search {
+  border-radius: 10px;
+  background-color: #f1f5f9;
+  border-width: 0px;
+  padding: 5px;
+}
+.logo {
+  font-size: 10px;
+}

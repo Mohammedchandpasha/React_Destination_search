@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.image {
+  height: 120px;
+  width: 200px;
+}
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  max-width: 600px;
+  border-radius: 10px;
+}
